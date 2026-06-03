@@ -1,8 +1,8 @@
-# Project Zoro PRD
+# ZORO AI Platform PRD
 
 ## 1. Project Name
 
-Project Zoro
+ZORO AI Platform
 
 ## 2. Start Date
 
@@ -16,7 +16,7 @@ The project should help build strong practical knowledge for AI Engineer, Full S
 
 ## 4. Problem Statement
 
-Many job seekers build small projects that only show one skill. Project Zoro will be different. It will be a complete product that includes:
+Many job seekers build small projects that only show one skill. ZORO AI Platform will be different. It will be a complete product that includes:
 
 - Product planning
 - Requirements gathering
@@ -59,7 +59,7 @@ The product should be powerful enough to demonstrate:
 
 ## 7. Success Criteria
 
-Project Zoro is successful if it helps the owner:
+ZORO AI Platform is successful if it helps the owner:
 
 - Build a strong portfolio project
 - Explain end-to-end system design confidently
@@ -89,3 +89,5 @@ Project Zoro is successful if it helps the owner:
 ## 10. Next Phase
 
 Phase 1: Product Discovery and Final Project Selection
+
+
